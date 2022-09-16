@@ -1,4 +1,3 @@
-![alt text](https://github.com/SenthilCaesar/SenthilCaesar.github.io/blob/main/senthilp.png)
  <hr></hr>
 <p align="center">
   <samp>
