@@ -2,13 +2,12 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Saad! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
-                Twitter: https://twitter.com/saadpastadev?lang=en
+    Hi, I'm Senthil Palanivelu! 👋 <br>
+    🔥 Biomedical sleep research tools developer  <br>
+    :sparkles: Favorite Tech: Python, MATLAB, R, C++ ... <br>
+    :notebook: I’m currently learning Docker and JavaScript... 😭  <br>
+    :email:	senthilcaesar@gmail.com <br>
+    :art: Portfolio: https://SenthilCaesar.github.io <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/senthil-palanivelu-0ba38844/ <br>
   </samp>
 </p>
