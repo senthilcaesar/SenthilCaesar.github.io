@@ -1,4 +1,3 @@
- <hr></hr>
 <p align="center">
   <samp>
     Hi, I'm Senthil Palanivelu! 👋 <br>
