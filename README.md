@@ -10,3 +10,7 @@
     :briefcase: LinkedIn: https://www.linkedin.com/in/senthil-palanivelu-0ba38844/ <br>
   </samp>
 </p>
+
+# Build settings
+markdown: kramdown
+theme: minima
