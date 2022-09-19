@@ -1,3 +1,3 @@
-# Build settings
-markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
+title: Senthil Palanivelu homepage
+description: Bookmark this to keep an eye on my project updates!
